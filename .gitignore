@@ -1,0 +1,7 @@
+node_modules/
+dist/
+work/
+*.tar.gz
+.DS_Store
+.env
+.env.*

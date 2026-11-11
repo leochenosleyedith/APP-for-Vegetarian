@@ -1,0 +1,1309 @@
+{
+  "source": "USDA FoodData Central, SR Legacy, April 2018",
+  "url": "https://fdc.nal.usda.gov/download-datasets/",
+  "downloadUrl": "https://fdc.nal.usda.gov/fdc-datasets/FoodData_Central_sr_legacy_food_json_2018-04.zip",
+  "archiveSha256": "0fe8ae486a2c8eb42cb96413f058deb51863a46c8fb8eeb4b1fb45006dd338ef",
+  "basis": "Nutrients per 100 grams of edible portion; null means not reported.",
+  "foods": [
+    {
+      "id": "quinoa",
+      "name": "Quinoa, cooked",
+      "fdcId": 168917,
+      "ndbNumber": 20137,
+      "sourceDescription": "Quinoa, cooked",
+      "portion": 150,
+      "tags": [],
+      "nutrients": {
+        "kcal": 120,
+        "protein": 4.4,
+        "carbs": 21.3,
+        "fat": 1.92,
+        "fiber": 2.8,
+        "iron": 1.49,
+        "calcium": 17.0,
+        "b12": 0.0,
+        "zinc": 1.09,
+        "vitaminC": 0.0,
+        "vitaminD": 0.0,
+        "sodium": 7.0,
+        "potassium": 172
+      }
+    },
+    {
+      "id": "chickpeas",
+      "name": "Chickpeas, cooked",
+      "fdcId": 173757,
+      "ndbNumber": 16057,
+      "sourceDescription": "Chickpeas (garbanzo beans, bengal gram), mature seeds, cooked, boiled, without salt",
+      "portion": 100,
+      "tags": [],
+      "nutrients": {
+        "kcal": 164,
+        "protein": 8.86,
+        "carbs": 27.4,
+        "fat": 2.59,
+        "fiber": 7.6,
+        "iron": 2.89,
+        "calcium": 49.0,
+        "b12": 0.0,
+        "zinc": 1.53,
+        "vitaminC": 1.3,
+        "vitaminD": 0.0,
+        "sodium": 7.0,
+        "potassium": 291
+      }
+    },
+    {
+      "id": "lentils",
+      "name": "Lentils, cooked",
+      "fdcId": 172421,
+      "ndbNumber": 16070,
+      "sourceDescription": "Lentils, mature seeds, cooked, boiled, without salt",
+      "portion": 150,
+      "tags": [],
+      "nutrients": {
+        "kcal": 116,
+        "protein": 9.02,
+        "carbs": 20.1,
+        "fat": 0.38,
+        "fiber": 7.9,
+        "iron": 3.33,
+        "calcium": 19.0,
+        "b12": 0.0,
+        "zinc": 1.27,
+        "vitaminC": 1.5,
+        "vitaminD": 0.0,
+        "sodium": 2.0,
+        "potassium": 369
+      }
+    },
+    {
+      "id": "tofu",
+      "name": "Firm tofu, calcium-set",
+      "fdcId": 172475,
+      "ndbNumber": 16426,
+      "sourceDescription": "Tofu, raw, firm, prepared with calcium sulfate",
+      "portion": 120,
+      "tags": [
+        "soy"
+      ],
+      "nutrients": {
+        "kcal": 144,
+        "protein": 17.3,
+        "carbs": 2.78,
+        "fat": 8.72,
+        "fiber": 2.3,
+        "iron": 2.66,
+        "calcium": 683,
+        "b12": 0.0,
+        "zinc": 1.57,
+        "vitaminC": 0.2,
+        "vitaminD": 0.0,
+        "sodium": 14.0,
+        "potassium": 237
+      }
+    },
+    {
+      "id": "tempeh",
+      "name": "Tempeh, cooked",
+      "fdcId": 172467,
+      "ndbNumber": 16174,
+      "sourceDescription": "Tempeh, cooked",
+      "portion": 100,
+      "tags": [
+        "soy"
+      ],
+      "nutrients": {
+        "kcal": 195,
+        "protein": 19.9,
+        "carbs": 7.62,
+        "fat": 11.4,
+        "fiber": null,
+        "iron": 2.13,
+        "calcium": 96.0,
+        "b12": 0.14,
+        "zinc": 1.57,
+        "vitaminC": null,
+        "vitaminD": 0.0,
+        "sodium": 14.0,
+        "potassium": 401
+      }
+    },
+    {
+      "id": "black-beans",
+      "name": "Black beans, cooked",
+      "fdcId": 173735,
+      "ndbNumber": 16015,
+      "sourceDescription": "Beans, black, mature seeds, cooked, boiled, without salt",
+      "portion": 130,
+      "tags": [],
+      "nutrients": {
+        "kcal": 132,
+        "protein": 8.86,
+        "carbs": 23.7,
+        "fat": 0.54,
+        "fiber": 8.7,
+        "iron": 2.1,
+        "calcium": 27.0,
+        "b12": 0.0,
+        "zinc": 1.12,
+        "vitaminC": 0.0,
+        "vitaminD": 0.0,
+        "sodium": 1.0,
+        "potassium": 355
+      }
+    },
+    {
+      "id": "edamame",
+      "name": "Edamame, prepared",
+      "fdcId": 168411,
+      "ndbNumber": 11212,
+      "sourceDescription": "Edamame, frozen, prepared",
+      "portion": 100,
+      "tags": [
+        "soy"
+      ],
+      "nutrients": {
+        "kcal": 121,
+        "protein": 11.9,
+        "carbs": 8.91,
+        "fat": 5.2,
+        "fiber": 5.2,
+        "iron": 2.27,
+        "calcium": 63.0,
+        "b12": 0.0,
+        "zinc": 1.37,
+        "vitaminC": 6.1,
+        "vitaminD": 0.0,
+        "sodium": 6.0,
+        "potassium": 436
+      }
+    },
+    {
+      "id": "hummus",
+      "name": "Hummus, home prepared",
+      "fdcId": 172454,
+      "ndbNumber": 16137,
+      "sourceDescription": "Hummus, home prepared",
+      "portion": 60,
+      "tags": [
+        "sesame"
+      ],
+      "nutrients": {
+        "kcal": 177,
+        "protein": 4.86,
+        "carbs": 20.1,
+        "fat": 8.59,
+        "fiber": 4.0,
+        "iron": 1.56,
+        "calcium": 49.0,
+        "b12": 0.0,
+        "zinc": 1.09,
+        "vitaminC": 7.9,
+        "vitaminD": 0.0,
+        "sodium": 242,
+        "potassium": 173
+      }
+    },
+    {
+      "id": "brown-rice",
+      "name": "Brown rice, cooked",
+      "fdcId": 169704,
+      "ndbNumber": 20037,
+      "sourceDescription": "Rice, brown, long-grain, cooked (Includes foods for USDA's Food Distribution Program)",
+      "portion": 150,
+      "tags": [],
+      "nutrients": {
+        "kcal": 123,
+        "protein": 2.74,
+        "carbs": 25.6,
+        "fat": 0.97,
+        "fiber": 1.6,
+        "iron": 0.56,
+        "calcium": 3.0,
+        "b12": 0.0,
+        "zinc": 0.71,
+        "vitaminC": 0.0,
+        "vitaminD": 0.0,
+        "sodium": 4.0,
+        "potassium": 86.0
+      }
+    },
+    {
+      "id": "white-rice",
+      "name": "White rice, cooked",
+      "fdcId": 168878,
+      "ndbNumber": 20045,
+      "sourceDescription": "Rice, white, long-grain, regular, enriched, cooked",
+      "portion": 150,
+      "tags": [],
+      "nutrients": {
+        "kcal": 130,
+        "protein": 2.69,
+        "carbs": 28.2,
+        "fat": 0.28,
+        "fiber": 0.4,
+        "iron": 1.2,
+        "calcium": 10.0,
+        "b12": 0.0,
+        "zinc": 0.49,
+        "vitaminC": 0.0,
+        "vitaminD": 0.0,
+        "sodium": 1.0,
+        "potassium": 35.0
+      }
+    },
+    {
+      "id": "oats",
+      "name": "Oats, dry",
+      "fdcId": 169705,
+      "ndbNumber": 20038,
+      "sourceDescription": "Oats (Includes foods for USDA's Food Distribution Program)",
+      "portion": 50,
+      "tags": [
+        "gluten"
+      ],
+      "nutrients": {
+        "kcal": 389,
+        "protein": 16.9,
+        "carbs": 66.3,
+        "fat": 6.9,
+        "fiber": 10.6,
+        "iron": 4.72,
+        "calcium": 54.0,
+        "b12": 0.0,
+        "zinc": 3.97,
+        "vitaminC": 0.0,
+        "vitaminD": 0.0,
+        "sodium": 2.0,
+        "potassium": 429
+      }
+    },
+    {
+      "id": "bread",
+      "name": "Whole-wheat bread",
+      "fdcId": 172688,
+      "ndbNumber": 18075,
+      "sourceDescription": "Bread, whole-wheat, commercially prepared",
+      "portion": 40,
+      "tags": [
+        "gluten",
+        "uncertain"
+      ],
+      "nutrients": {
+        "kcal": 252,
+        "protein": 12.4,
+        "carbs": 42.7,
+        "fat": 3.5,
+        "fiber": 6.0,
+        "iron": 2.47,
+        "calcium": 161,
+        "b12": 0.0,
+        "zinc": 1.77,
+        "vitaminC": 0.0,
+        "vitaminD": 0.0,
+        "sodium": 455,
+        "potassium": 254
+      }
+    },
+    {
+      "id": "spinach",
+      "name": "Spinach, raw",
+      "fdcId": 168462,
+      "ndbNumber": 11457,
+      "sourceDescription": "Spinach, raw",
+      "portion": 50,
+      "tags": [],
+      "nutrients": {
+        "kcal": 23.0,
+        "protein": 2.86,
+        "carbs": 3.63,
+        "fat": 0.39,
+        "fiber": 2.2,
+        "iron": 2.71,
+        "calcium": 99.0,
+        "b12": 0.0,
+        "zinc": 0.53,
+        "vitaminC": 28.1,
+        "vitaminD": 0.0,
+        "sodium": 79.0,
+        "potassium": 558
+      }
+    },
+    {
+      "id": "broccoli",
+      "name": "Broccoli, cooked",
+      "fdcId": 169967,
+      "ndbNumber": 11091,
+      "sourceDescription": "Broccoli, cooked, boiled, drained, without salt",
+      "portion": 100,
+      "tags": [],
+      "nutrients": {
+        "kcal": 35.0,
+        "protein": 2.38,
+        "carbs": 7.18,
+        "fat": 0.41,
+        "fiber": 3.3,
+        "iron": 0.67,
+        "calcium": 40.0,
+        "b12": 0.0,
+        "zinc": 0.45,
+        "vitaminC": 64.9,
+        "vitaminD": 0.0,
+        "sodium": 41.0,
+        "potassium": 293
+      }
+    },
+    {
+      "id": "avocado",
+      "name": "Avocado",
+      "fdcId": 171705,
+      "ndbNumber": 9037,
+      "sourceDescription": "Avocados, raw, all commercial varieties",
+      "portion": 75,
+      "tags": [],
+      "nutrients": {
+        "kcal": 160,
+        "protein": 2.0,
+        "carbs": 8.53,
+        "fat": 14.7,
+        "fiber": 6.7,
+        "iron": 0.55,
+        "calcium": 12.0,
+        "b12": 0.0,
+        "zinc": 0.64,
+        "vitaminC": 10.0,
+        "vitaminD": 0.0,
+        "sodium": 7.0,
+        "potassium": 485
+      }
+    },
+    {
+      "id": "tomato",
+      "name": "Tomato, raw",
+      "fdcId": 170457,
+      "ndbNumber": 11529,
+      "sourceDescription": "Tomatoes, red, ripe, raw, year round average",
+      "portion": 100,
+      "tags": [],
+      "nutrients": {
+        "kcal": 18.0,
+        "protein": 0.88,
+        "carbs": 3.89,
+        "fat": 0.2,
+        "fiber": 1.2,
+        "iron": 0.27,
+        "calcium": 10.0,
+        "b12": 0.0,
+        "zinc": 0.17,
+        "vitaminC": 13.7,
+        "vitaminD": 0.0,
+        "sodium": 5.0,
+        "potassium": 237
+      }
+    },
+    {
+      "id": "cucumber",
+      "name": "Cucumber, raw",
+      "fdcId": 168409,
+      "ndbNumber": 11205,
+      "sourceDescription": "Cucumber, with peel, raw",
+      "portion": 80,
+      "tags": [],
+      "nutrients": {
+        "kcal": 15.0,
+        "protein": 0.65,
+        "carbs": 3.63,
+        "fat": 0.11,
+        "fiber": 0.5,
+        "iron": 0.28,
+        "calcium": 16.0,
+        "b12": 0.0,
+        "zinc": 0.2,
+        "vitaminC": 2.8,
+        "vitaminD": 0.0,
+        "sodium": 2.0,
+        "potassium": 147
+      }
+    },
+    {
+      "id": "carrot",
+      "name": "Carrot, raw",
+      "fdcId": 170393,
+      "ndbNumber": 11124,
+      "sourceDescription": "Carrots, raw",
+      "portion": 80,
+      "tags": [],
+      "nutrients": {
+        "kcal": 41.0,
+        "protein": 0.93,
+        "carbs": 9.58,
+        "fat": 0.24,
+        "fiber": 2.8,
+        "iron": 0.3,
+        "calcium": 33.0,
+        "b12": 0.0,
+        "zinc": 0.24,
+        "vitaminC": 5.9,
+        "vitaminD": 0.0,
+        "sodium": 69.0,
+        "potassium": 320
+      }
+    },
+    {
+      "id": "sweet-potato",
+      "name": "Sweet potato, baked",
+      "fdcId": 168483,
+      "ndbNumber": 11508,
+      "sourceDescription": "Sweet potato, cooked, baked in skin, flesh, without salt",
+      "portion": 150,
+      "tags": [],
+      "nutrients": {
+        "kcal": 90.0,
+        "protein": 2.01,
+        "carbs": 20.7,
+        "fat": 0.15,
+        "fiber": 3.3,
+        "iron": 0.69,
+        "calcium": 38.0,
+        "b12": 0.0,
+        "zinc": 0.32,
+        "vitaminC": 19.6,
+        "vitaminD": 0.0,
+        "sodium": 36.0,
+        "potassium": 475
+      }
+    },
+    {
+      "id": "potato",
+      "name": "Potato, baked with skin",
+      "fdcId": 170093,
+      "ndbNumber": 11674,
+      "sourceDescription": "Potatoes, baked, flesh and skin, without salt",
+      "portion": 170,
+      "tags": [],
+      "nutrients": {
+        "kcal": 93.0,
+        "protein": 2.5,
+        "carbs": 21.2,
+        "fat": 0.13,
+        "fiber": 2.2,
+        "iron": 1.08,
+        "calcium": 15.0,
+        "b12": 0.0,
+        "zinc": 0.36,
+        "vitaminC": 9.6,
+        "vitaminD": 0.0,
+        "sodium": 10.0,
+        "potassium": 535
+      }
+    },
+    {
+      "id": "mushroom",
+      "name": "White mushrooms, raw",
+      "fdcId": 169251,
+      "ndbNumber": 11260,
+      "sourceDescription": "Mushrooms, white, raw",
+      "portion": 70,
+      "tags": [],
+      "nutrients": {
+        "kcal": 22.0,
+        "protein": 3.09,
+        "carbs": 3.26,
+        "fat": 0.34,
+        "fiber": 1.0,
+        "iron": 0.5,
+        "calcium": 3.0,
+        "b12": 0.04,
+        "zinc": 0.52,
+        "vitaminC": 2.1,
+        "vitaminD": 0.2,
+        "sodium": 5.0,
+        "potassium": 318
+      }
+    },
+    {
+      "id": "pepper",
+      "name": "Red bell pepper, raw",
+      "fdcId": 170108,
+      "ndbNumber": 11821,
+      "sourceDescription": "Peppers, sweet, red, raw",
+      "portion": 100,
+      "tags": [],
+      "nutrients": {
+        "kcal": 26.0,
+        "protein": 0.99,
+        "carbs": 6.03,
+        "fat": 0.3,
+        "fiber": 2.1,
+        "iron": 0.43,
+        "calcium": 7.0,
+        "b12": 0.0,
+        "zinc": 0.25,
+        "vitaminC": 128,
+        "vitaminD": 0.0,
+        "sodium": 4.0,
+        "potassium": 211
+      }
+    },
+    {
+      "id": "onion",
+      "name": "Onion, raw",
+      "fdcId": 170000,
+      "ndbNumber": 11282,
+      "sourceDescription": "Onions, raw",
+      "portion": 50,
+      "tags": [
+        "allium"
+      ],
+      "nutrients": {
+        "kcal": 40.0,
+        "protein": 1.1,
+        "carbs": 9.34,
+        "fat": 0.1,
+        "fiber": 1.7,
+        "iron": 0.21,
+        "calcium": 23.0,
+        "b12": 0.0,
+        "zinc": 0.17,
+        "vitaminC": 7.4,
+        "vitaminD": 0.0,
+        "sodium": 4.0,
+        "potassium": 146
+      }
+    },
+    {
+      "id": "garlic",
+      "name": "Garlic, raw",
+      "fdcId": 169230,
+      "ndbNumber": 11215,
+      "sourceDescription": "Garlic, raw",
+      "portion": 5,
+      "tags": [
+        "allium"
+      ],
+      "nutrients": {
+        "kcal": 149,
+        "protein": 6.36,
+        "carbs": 33.1,
+        "fat": 0.5,
+        "fiber": 2.1,
+        "iron": 1.7,
+        "calcium": 181,
+        "b12": 0.0,
+        "zinc": 1.16,
+        "vitaminC": 31.2,
+        "vitaminD": 0.0,
+        "sodium": 17.0,
+        "potassium": 401
+      }
+    },
+    {
+      "id": "lettuce",
+      "name": "Romaine lettuce, raw",
+      "fdcId": 169247,
+      "ndbNumber": 11251,
+      "sourceDescription": "Lettuce, cos or romaine, raw",
+      "portion": 60,
+      "tags": [],
+      "nutrients": {
+        "kcal": 17.0,
+        "protein": 1.23,
+        "carbs": 3.29,
+        "fat": 0.3,
+        "fiber": 2.1,
+        "iron": 0.97,
+        "calcium": 33.0,
+        "b12": 0.0,
+        "zinc": 0.23,
+        "vitaminC": 4.0,
+        "vitaminD": 0.0,
+        "sodium": 8.0,
+        "potassium": 247
+      }
+    },
+    {
+      "id": "kale",
+      "name": "Kale, raw",
+      "fdcId": 168421,
+      "ndbNumber": 11233,
+      "sourceDescription": "Kale, raw",
+      "portion": 50,
+      "tags": [],
+      "nutrients": {
+        "kcal": 35.0,
+        "protein": 2.92,
+        "carbs": 4.42,
+        "fat": 1.49,
+        "fiber": 4.1,
+        "iron": 1.6,
+        "calcium": 254,
+        "b12": 0.0,
+        "zinc": 0.39,
+        "vitaminC": 93.4,
+        "vitaminD": 0.0,
+        "sodium": 53.0,
+        "potassium": 348
+      }
+    },
+    {
+      "id": "corn",
+      "name": "Sweet corn, cooked",
+      "fdcId": 169999,
+      "ndbNumber": 11168,
+      "sourceDescription": "Corn, sweet, yellow, cooked, boiled, drained, without salt",
+      "portion": 100,
+      "tags": [],
+      "nutrients": {
+        "kcal": 96.0,
+        "protein": 3.41,
+        "carbs": 21.0,
+        "fat": 1.5,
+        "fiber": 2.4,
+        "iron": 0.45,
+        "calcium": 3.0,
+        "b12": 0.0,
+        "zinc": 0.62,
+        "vitaminC": 5.5,
+        "vitaminD": 0.0,
+        "sodium": 1.0,
+        "potassium": 218
+      }
+    },
+    {
+      "id": "peas",
+      "name": "Green peas, cooked",
+      "fdcId": 170420,
+      "ndbNumber": 11305,
+      "sourceDescription": "Peas, green, cooked, boiled, drained, without salt",
+      "portion": 100,
+      "tags": [],
+      "nutrients": {
+        "kcal": 84.0,
+        "protein": 5.36,
+        "carbs": 15.6,
+        "fat": 0.22,
+        "fiber": 5.5,
+        "iron": 1.54,
+        "calcium": 27.0,
+        "b12": 0.0,
+        "zinc": 1.19,
+        "vitaminC": 14.2,
+        "vitaminD": 0.0,
+        "sodium": 3.0,
+        "potassium": 271
+      }
+    },
+    {
+      "id": "banana",
+      "name": "Banana",
+      "fdcId": 173944,
+      "ndbNumber": 9040,
+      "sourceDescription": "Bananas, raw",
+      "portion": 118,
+      "tags": [],
+      "nutrients": {
+        "kcal": 89.0,
+        "protein": 1.09,
+        "carbs": 22.8,
+        "fat": 0.33,
+        "fiber": 2.6,
+        "iron": 0.26,
+        "calcium": 5.0,
+        "b12": 0.0,
+        "zinc": 0.15,
+        "vitaminC": 8.7,
+        "vitaminD": 0.0,
+        "sodium": 1.0,
+        "potassium": 358
+      }
+    },
+    {
+      "id": "apple",
+      "name": "Apple with skin",
+      "fdcId": 171688,
+      "ndbNumber": 9003,
+      "sourceDescription": "Apples, raw, with skin (Includes foods for USDA's Food Distribution Program)",
+      "portion": 182,
+      "tags": [],
+      "nutrients": {
+        "kcal": 52.0,
+        "protein": 0.26,
+        "carbs": 13.8,
+        "fat": 0.17,
+        "fiber": 2.4,
+        "iron": 0.12,
+        "calcium": 6.0,
+        "b12": 0.0,
+        "zinc": 0.04,
+        "vitaminC": 4.6,
+        "vitaminD": 0.0,
+        "sodium": 1.0,
+        "potassium": 107
+      }
+    },
+    {
+      "id": "blueberries",
+      "name": "Blueberries",
+      "fdcId": 171711,
+      "ndbNumber": 9050,
+      "sourceDescription": "Blueberries, raw",
+      "portion": 80,
+      "tags": [],
+      "nutrients": {
+        "kcal": 57.0,
+        "protein": 0.74,
+        "carbs": 14.5,
+        "fat": 0.33,
+        "fiber": 2.4,
+        "iron": 0.28,
+        "calcium": 6.0,
+        "b12": 0.0,
+        "zinc": 0.16,
+        "vitaminC": 9.7,
+        "vitaminD": 0.0,
+        "sodium": 1.0,
+        "potassium": 77.0
+      }
+    },
+    {
+      "id": "strawberries",
+      "name": "Strawberries",
+      "fdcId": 167762,
+      "ndbNumber": 9316,
+      "sourceDescription": "Strawberries, raw",
+      "portion": 100,
+      "tags": [],
+      "nutrients": {
+        "kcal": 32.0,
+        "protein": 0.67,
+        "carbs": 7.68,
+        "fat": 0.3,
+        "fiber": 2.0,
+        "iron": 0.41,
+        "calcium": 16.0,
+        "b12": 0.0,
+        "zinc": 0.14,
+        "vitaminC": 58.8,
+        "vitaminD": 0.0,
+        "sodium": 1.0,
+        "potassium": 153
+      }
+    },
+    {
+      "id": "orange",
+      "name": "Orange",
+      "fdcId": 169097,
+      "ndbNumber": 9200,
+      "sourceDescription": "Oranges, raw, all commercial varieties",
+      "portion": 130,
+      "tags": [],
+      "nutrients": {
+        "kcal": 47.0,
+        "protein": 0.94,
+        "carbs": 11.8,
+        "fat": 0.12,
+        "fiber": 2.4,
+        "iron": 0.1,
+        "calcium": 40.0,
+        "b12": 0.0,
+        "zinc": 0.07,
+        "vitaminC": 53.2,
+        "vitaminD": 0.0,
+        "sodium": 0.0,
+        "potassium": 181
+      }
+    },
+    {
+      "id": "almonds",
+      "name": "Almonds",
+      "fdcId": 170567,
+      "ndbNumber": 12061,
+      "sourceDescription": "Nuts, almonds",
+      "portion": 28,
+      "tags": [
+        "nuts"
+      ],
+      "nutrients": {
+        "kcal": 579,
+        "protein": 21.2,
+        "carbs": 21.6,
+        "fat": 49.9,
+        "fiber": 12.5,
+        "iron": 3.71,
+        "calcium": 269,
+        "b12": 0.0,
+        "zinc": 3.12,
+        "vitaminC": 0.0,
+        "vitaminD": 0.0,
+        "sodium": 1.0,
+        "potassium": 733
+      }
+    },
+    {
+      "id": "walnuts",
+      "name": "Walnuts",
+      "fdcId": 170187,
+      "ndbNumber": 12155,
+      "sourceDescription": "Nuts, walnuts, english",
+      "portion": 28,
+      "tags": [
+        "nuts"
+      ],
+      "nutrients": {
+        "kcal": 654,
+        "protein": 15.2,
+        "carbs": 13.7,
+        "fat": 65.2,
+        "fiber": 6.7,
+        "iron": 2.91,
+        "calcium": 98.0,
+        "b12": 0.0,
+        "zinc": 3.09,
+        "vitaminC": 1.3,
+        "vitaminD": 0.0,
+        "sodium": 2.0,
+        "potassium": 441
+      }
+    },
+    {
+      "id": "chia",
+      "name": "Chia seeds, dried",
+      "fdcId": 170554,
+      "ndbNumber": 12006,
+      "sourceDescription": "Seeds, chia seeds, dried",
+      "portion": 15,
+      "tags": [],
+      "nutrients": {
+        "kcal": 486,
+        "protein": 16.5,
+        "carbs": 42.1,
+        "fat": 30.7,
+        "fiber": 34.4,
+        "iron": 7.72,
+        "calcium": 631,
+        "b12": 0.0,
+        "zinc": 4.58,
+        "vitaminC": 1.6,
+        "vitaminD": null,
+        "sodium": 16.0,
+        "potassium": 407
+      }
+    },
+    {
+      "id": "tahini",
+      "name": "Tahini",
+      "fdcId": 168604,
+      "ndbNumber": 12698,
+      "sourceDescription": "Seeds, sesame butter, tahini, type of kernels unspecified",
+      "portion": 15,
+      "tags": [
+        "sesame"
+      ],
+      "nutrients": {
+        "kcal": 592,
+        "protein": 17.4,
+        "carbs": 21.5,
+        "fat": 53.0,
+        "fiber": 4.7,
+        "iron": 4.42,
+        "calcium": 141,
+        "b12": 0.0,
+        "zinc": 4.62,
+        "vitaminC": 4.2,
+        "vitaminD": 0.0,
+        "sodium": 35.0,
+        "potassium": 459
+      }
+    },
+    {
+      "id": "olive-oil",
+      "name": "Olive oil",
+      "fdcId": 171413,
+      "ndbNumber": 4053,
+      "sourceDescription": "Oil, olive, salad or cooking",
+      "portion": 10,
+      "tags": [],
+      "nutrients": {
+        "kcal": 884,
+        "protein": 0.0,
+        "carbs": 0.0,
+        "fat": 100,
+        "fiber": 0.0,
+        "iron": 0.56,
+        "calcium": 1.0,
+        "b12": 0.0,
+        "zinc": 0.0,
+        "vitaminC": 0.0,
+        "vitaminD": 0.0,
+        "sodium": 2.0,
+        "potassium": 1.0
+      }
+    },
+    {
+      "id": "peanut-butter",
+      "name": "Peanut butter, unsalted",
+      "fdcId": 172470,
+      "ndbNumber": 16398,
+      "sourceDescription": "Peanut butter, smooth style, without salt",
+      "portion": 25,
+      "tags": [
+        "peanuts"
+      ],
+      "nutrients": {
+        "kcal": 598,
+        "protein": 22.2,
+        "carbs": 22.3,
+        "fat": 51.4,
+        "fiber": 5.0,
+        "iron": 1.74,
+        "calcium": 49.0,
+        "b12": 0.0,
+        "zinc": 2.51,
+        "vitaminC": 0.0,
+        "vitaminD": 0.0,
+        "sodium": 17.0,
+        "potassium": 558
+      }
+    },
+    {
+      "id": "soy-milk",
+      "name": "Soymilk, calcium/vitamin A/D fortified",
+      "fdcId": 172456,
+      "ndbNumber": 16139,
+      "sourceDescription": "Soymilk, original and vanilla, with added calcium, vitamins A and D",
+      "portion": 240,
+      "tags": [
+        "soy"
+      ],
+      "nutrients": {
+        "kcal": 43.0,
+        "protein": 2.6,
+        "carbs": 4.92,
+        "fat": 1.47,
+        "fiber": 0.2,
+        "iron": 0.42,
+        "calcium": 123,
+        "b12": 0.85,
+        "zinc": 0.26,
+        "vitaminC": 0.0,
+        "vitaminD": 1.1,
+        "sodium": 47.0,
+        "potassium": 122
+      }
+    },
+    {
+      "id": "almond-milk",
+      "name": "Almond milk, unsweetened",
+      "fdcId": 174832,
+      "ndbNumber": 14091,
+      "sourceDescription": "Beverages, almond milk, unsweetened, shelf stable",
+      "portion": 240,
+      "tags": [
+        "nuts"
+      ],
+      "nutrients": {
+        "kcal": 15.0,
+        "protein": 0.4,
+        "carbs": 1.31,
+        "fat": 0.96,
+        "fiber": 0.2,
+        "iron": 0.28,
+        "calcium": 184,
+        "b12": 0.0,
+        "zinc": 0.06,
+        "vitaminC": 0.0,
+        "vitaminD": 1.0,
+        "sodium": 72.0,
+        "potassium": 67.0
+      }
+    },
+    {
+      "id": "greek-yogurt",
+      "name": "Greek yogurt, plain, nonfat",
+      "fdcId": 170894,
+      "ndbNumber": 1256,
+      "sourceDescription": "Yogurt, Greek, plain, nonfat (Includes foods for USDA's Food Distribution Program)",
+      "portion": 170,
+      "tags": [
+        "dairy"
+      ],
+      "nutrients": {
+        "kcal": 59.0,
+        "protein": 10.2,
+        "carbs": 3.6,
+        "fat": 0.39,
+        "fiber": 0.0,
+        "iron": 0.07,
+        "calcium": 110,
+        "b12": 0.75,
+        "zinc": 0.52,
+        "vitaminC": 0.0,
+        "vitaminD": 0.0,
+        "sodium": 36.0,
+        "potassium": 141
+      }
+    },
+    {
+      "id": "milk",
+      "name": "Whole milk, vitamin D fortified",
+      "fdcId": 171265,
+      "ndbNumber": 1077,
+      "sourceDescription": "Milk, whole, 3.25% milkfat, with added vitamin D",
+      "portion": 240,
+      "tags": [
+        "dairy"
+      ],
+      "nutrients": {
+        "kcal": 61.0,
+        "protein": 3.15,
+        "carbs": 4.8,
+        "fat": 3.25,
+        "fiber": 0.0,
+        "iron": 0.03,
+        "calcium": 113,
+        "b12": 0.45,
+        "zinc": 0.37,
+        "vitaminC": 0.0,
+        "vitaminD": 1.3,
+        "sodium": 43.0,
+        "potassium": 132
+      }
+    },
+    {
+      "id": "feta",
+      "name": "Feta cheese",
+      "fdcId": 173420,
+      "ndbNumber": 1019,
+      "sourceDescription": "Cheese, feta",
+      "portion": 30,
+      "tags": [
+        "dairy",
+        "rennet"
+      ],
+      "nutrients": {
+        "kcal": 265,
+        "protein": 14.2,
+        "carbs": 3.88,
+        "fat": 21.5,
+        "fiber": 0.0,
+        "iron": 0.65,
+        "calcium": 493,
+        "b12": 1.69,
+        "zinc": 2.88,
+        "vitaminC": 0.0,
+        "vitaminD": 0.4,
+        "sodium": 1140.0,
+        "potassium": 62.0
+      }
+    },
+    {
+      "id": "cheddar",
+      "name": "Cheddar cheese",
+      "fdcId": 173414,
+      "ndbNumber": 1009,
+      "sourceDescription": "Cheese, cheddar (Includes foods for USDA's Food Distribution Program)",
+      "portion": 30,
+      "tags": [
+        "dairy",
+        "rennet"
+      ],
+      "nutrients": {
+        "kcal": 403,
+        "protein": 22.9,
+        "carbs": 3.37,
+        "fat": 33.3,
+        "fiber": 0.0,
+        "iron": 0.14,
+        "calcium": 710,
+        "b12": 1.1,
+        "zinc": 3.64,
+        "vitaminC": 0.0,
+        "vitaminD": 0.6,
+        "sodium": 653,
+        "potassium": 76.0
+      }
+    },
+    {
+      "id": "egg",
+      "name": "Hard-boiled egg",
+      "fdcId": 173424,
+      "ndbNumber": 1129,
+      "sourceDescription": "Egg, whole, cooked, hard-boiled",
+      "portion": 50,
+      "tags": [
+        "egg"
+      ],
+      "nutrients": {
+        "kcal": 155,
+        "protein": 12.6,
+        "carbs": 1.12,
+        "fat": 10.6,
+        "fiber": 0.0,
+        "iron": 1.19,
+        "calcium": 50.0,
+        "b12": 1.11,
+        "zinc": 1.05,
+        "vitaminC": 0.0,
+        "vitaminD": 2.2,
+        "sodium": 124,
+        "potassium": 126
+      }
+    },
+    {
+      "id": "honey",
+      "name": "Honey",
+      "fdcId": 169640,
+      "ndbNumber": 19296,
+      "sourceDescription": "Honey",
+      "portion": 15,
+      "tags": [
+        "honey"
+      ],
+      "nutrients": {
+        "kcal": 304,
+        "protein": 0.3,
+        "carbs": 82.4,
+        "fat": 0.0,
+        "fiber": 0.2,
+        "iron": 0.42,
+        "calcium": 6.0,
+        "b12": 0.0,
+        "zinc": 0.22,
+        "vitaminC": 0.5,
+        "vitaminD": 0.0,
+        "sodium": 4.0,
+        "potassium": 52.0
+      }
+    },
+    {
+      "id": "chicken",
+      "name": "Chicken breast, roasted, meat only",
+      "fdcId": 171477,
+      "ndbNumber": 5064,
+      "sourceDescription": "Chicken, broilers or fryers, breast, meat only, cooked, roasted",
+      "portion": 120,
+      "tags": [
+        "meat"
+      ],
+      "nutrients": {
+        "kcal": 165,
+        "protein": 31.0,
+        "carbs": 0.0,
+        "fat": 3.57,
+        "fiber": 0.0,
+        "iron": 1.04,
+        "calcium": 15.0,
+        "b12": 0.34,
+        "zinc": 1.0,
+        "vitaminC": 0.0,
+        "vitaminD": 0.1,
+        "sodium": 74.0,
+        "potassium": 256
+      }
+    },
+    {
+      "id": "beef",
+      "name": "Ground beef, cooked",
+      "fdcId": 174034,
+      "ndbNumber": 23570,
+      "sourceDescription": "Beef, ground, 85% lean meat / 15% fat, crumbles, cooked, pan-browned",
+      "portion": 120,
+      "tags": [
+        "meat"
+      ],
+      "nutrients": {
+        "kcal": 256,
+        "protein": 27.7,
+        "carbs": 0.0,
+        "fat": 15.3,
+        "fiber": 0.0,
+        "iron": 2.93,
+        "calcium": 22.0,
+        "b12": 2.8,
+        "zinc": 6.62,
+        "vitaminC": 0.0,
+        "vitaminD": 0.0,
+        "sodium": 89.0,
+        "potassium": 407
+      }
+    },
+    {
+      "id": "salmon",
+      "name": "Atlantic salmon, cooked",
+      "fdcId": 171998,
+      "ndbNumber": 15209,
+      "sourceDescription": "Fish, salmon, Atlantic, wild, cooked, dry heat",
+      "portion": 120,
+      "tags": [
+        "fish"
+      ],
+      "nutrients": {
+        "kcal": 182,
+        "protein": 25.4,
+        "carbs": 0.0,
+        "fat": 8.13,
+        "fiber": 0.0,
+        "iron": 1.03,
+        "calcium": 15.0,
+        "b12": 3.05,
+        "zinc": 0.82,
+        "vitaminC": 0.0,
+        "vitaminD": null,
+        "sodium": 56.0,
+        "potassium": 628
+      }
+    },
+    {
+      "id": "shrimp",
+      "name": "Shrimp, cooked",
+      "fdcId": 175180,
+      "ndbNumber": 15271,
+      "sourceDescription": "Crustaceans, shrimp, cooked",
+      "portion": 100,
+      "tags": [
+        "fish",
+        "shellfish"
+      ],
+      "nutrients": {
+        "kcal": 99.0,
+        "protein": 24.0,
+        "carbs": 0.2,
+        "fat": 0.28,
+        "fiber": null,
+        "iron": 0.51,
+        "calcium": 70.0,
+        "b12": null,
+        "zinc": 1.64,
+        "vitaminC": null,
+        "vitaminD": null,
+        "sodium": 111,
+        "potassium": 259
+      }
+    },
+    {
+      "id": "salt",
+      "name": "Table salt",
+      "fdcId": 173468,
+      "ndbNumber": 2047,
+      "sourceDescription": "Salt, table",
+      "portion": 1,
+      "tags": [],
+      "nutrients": {
+        "kcal": 0.0,
+        "protein": 0.0,
+        "carbs": 0.0,
+        "fat": 0.0,
+        "fiber": 0.0,
+        "iron": 0.33,
+        "calcium": 24.0,
+        "b12": 0.0,
+        "zinc": 0.1,
+        "vitaminC": 0.0,
+        "vitaminD": 0.0,
+        "sodium": 38800.0,
+        "potassium": 8.0
+      }
+    }
+  ]
+}

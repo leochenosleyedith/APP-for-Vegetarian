@@ -1,0 +1,17 @@
+{
+  "name": "sprout-vegetarian-journal",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node --test tests/*.test.js",
+    "check": "node --check web/app.js && node --check web/core.js && node --check web/vision-worker.js && node --check worker/index.js && node scripts/check.mjs",
+    "build": "node scripts/build.mjs",
+    "db:generate": "drizzle-kit generate"
+  },
+  "devDependencies": {
+    "drizzle-kit": "0.31.4",
+    "drizzle-orm": "0.44.5",
+    "jsdom": "26.1.0"
+  }
+}
