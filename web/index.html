@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#234f3c">
+  <meta name="description" content="A little more balance. A little more plant. Your personal vegetarian food journal, nutrition companion, and meal planner.">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="default">
+  <meta name="apple-mobile-web-app-title" content="Sprout">
+  <link rel="manifest" href="./manifest.webmanifest">
+  <link rel="icon" href="./assets/icon.svg" type="image/svg+xml">
+  <link rel="apple-touch-icon" href="./assets/icon-192.png">
+  <link rel="stylesheet" href="./styles.css">
+  <title>Sprout — Eat a little brighter</title>
+</head>
+<body>
+  <a class="skip" href="#main">Skip to content</a>
+  <aside class="sidebar">
+    <a class="brand" href="#today" aria-label="Sprout home"><svg viewBox="0 0 40 40" fill="none" aria-hidden="true"><path d="M20 33V17M20 23C9 24 5 18 6 8c10-1 16 4 14 15Zm0-6C20 7 26 3 35 5c0 9-6 14-15 12Z" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/></svg>sprout<span>®</span></a>
+    <p class="brand-subtitle">A little more plant. A lot more you.</p>
+    <nav aria-label="Main navigation">
+      <a href="#today" data-page="today"><span data-icon="sun"></span><span>My day</span></a>
+      <a href="#journal" data-page="journal"><span data-icon="book"></span><span>Food journal</span></a>
+      <a href="#plan" data-page="plan"><span data-icon="leaf"></span><span>My meal plan</span></a>
+      <a href="#check" data-page="check"><span data-icon="shield"></span><span>Ingredient check</span></a>
+    </nav>
+    <div class="sidebar-note"><span class="little-leaf">✳</span><h3>Small steps.<br>Good things growing.</h3><p>Every balanced plate is a fresh start.</p></div>
+    <div class="sidebar-bottom"><a href="#preferences" data-page="preferences"><span data-icon="settings"></span>My preferences</a><button class="text-button" id="about-button"><span data-icon="info"></span>About & privacy</button><div id="account-sidebar" class="account-sidebar"></div></div>
+  </aside>
+  <div class="app-shell">
+    <header class="topbar"><span class="topbar-title">YOUR EVERYDAY PLANT COMPANION</span><a class="mobile-brand" href="#today">✳ sprout</a><div class="topbar-actions"><button class="quiet-button" id="install-button"><span data-icon="phone"></span><span>Add to iPhone</span></button><div id="account-top"></div></div></header>
+    <main id="main" tabindex="-1"><div class="loading-state"><span class="loading-leaf">✳</span><p>Getting your day ready…</p></div></main>
+    <footer class="footer"><span>Made for your kind of healthy.</span><span>Grow at your own pace <span class="green">✳</span></span></footer>
+  </div>
+  <nav class="mobile-nav" aria-label="Mobile navigation"><a href="#today" data-page="today"><span data-icon="sun"></span>My day</a><a href="#journal" data-page="journal"><span data-icon="book"></span>Journal</a><button id="mobile-add" aria-label="Log a meal"><span data-icon="plus"></span></button><a href="#plan" data-page="plan"><span data-icon="leaf"></span>Plan</a><a href="#check" data-page="check"><span data-icon="shield"></span>Check</a></nav>
+  <dialog id="meal-dialog" aria-labelledby="meal-dialog-title"></dialog>
+  <dialog id="info-dialog" aria-labelledby="info-dialog-title"></dialog>
+  <div id="toast" role="status" aria-live="polite"></div>
+  <noscript><p class="noscript">Please enable JavaScript to use Sprout.</p></noscript>
+  <script type="module" src="./app.js"></script>
+</body>
+</html>
